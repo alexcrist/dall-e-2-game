@@ -18,7 +18,7 @@ const scenes = [
     ]
   }, 
   {
-    image: 'https://media.discordapp.net/attachments/1010632210568716381/1010992888462725222/Mulien_a_white_and_orange_space_rover_viewed_afar_in_a_dramatic_7eb5b3c6-558a-4865-841c-006f7c9f736e.png',
+    image: 'https://cdn.discordapp.com/attachments/957704140400754770/1011002717717676062/unknown.png',
     description: 'TODO',
     choices: [
       'F',
