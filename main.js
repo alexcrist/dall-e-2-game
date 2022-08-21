@@ -13,8 +13,8 @@ const scenes = [
       'Slip into your suit'
     ],
     correctChoices: [
-      0,
-      1
+      1,
+      3
     ]
   }, 
   {
